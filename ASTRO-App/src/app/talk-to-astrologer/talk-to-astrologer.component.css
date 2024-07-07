@@ -1,0 +1,13 @@
+
+
+.display-inline{
+    display: inline-flex;
+}
+.m-allign{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+.width-50{
+    width: 50%;
+}
